@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-03 17:41+0800\n"
+"PO-Revision-Date: 2016-08-03 17:44+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: widgets/categories-widget.php:24
+msgid "List forum categories"
+msgstr "List Forum Categories"
+
+#: widgets/categories-widget.php:38 widgets/threads-widget.php:37
+msgid "Title"
+msgstr "Title"
+
+#: widgets/categories-widget.php:46
+msgid "API URL for forum categories "
+msgstr "API URL for Forum Categories"
+
+#: widgets/categories-widget.php:54 widgets/threads-widget.php:53
+msgid "Open link in new tab"
+msgstr "Open Link in New Tab"
+
+#: widgets/categories-widget.php:60 widgets/threads-widget.php:59
+msgid "Use Widget Styles"
+msgstr "Use Widget Styles"
+
+#: widgets/categories-widget.php:68 widgets/threads-widget.php:67
+msgid "Class for div tag"
+msgstr "Class for main DIV tag"
+
+#: widgets/categories-widget.php:74 widgets/threads-widget.php:73
+msgid "Class for ul tag"
+msgstr "Class for UL tag"
+
+#: widgets/categories-widget.php:80 widgets/threads-widget.php:79
+msgid "Class for li tag"
+msgstr "Class for LI tag"
+
+#: widgets/categories-widget.php:86 widgets/threads-widget.php:85
+msgid "Class for a tag"
+msgstr "Class for A tag"
+
+#: widgets/threads-widget.php:23
+msgid "List forum threads"
+msgstr "List Forum Threads"
+
+#: widgets/threads-widget.php:45
+msgid "API URL for forum threds "
+msgstr "API URL for Forum Threads"
+
+#: widgets/threads-widget.php:91
+msgid "Class for relies span tag"
+msgstr "Class for replies SPAN tag"

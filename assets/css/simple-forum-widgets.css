@@ -1,0 +1,44 @@
+/* TECDIARY SIMPLE FORUM WP WIDGET STYLES
+----------------------------------------------- */
+
+.tec-sf-widget {
+	overflow: hidden;
+}
+
+.tec-sf-widget .tec-sf-widget-title {
+
+}
+
+.tec-sf-widget ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.tec-sf-widget li {
+	border: 1px solid #CCC;
+	border-bottom: none;
+}
+
+.tec-sf-widget li:hover {
+	background: #F5F5F5;
+}
+
+.tec-sf-widget li:last-child {
+	border-bottom: 1px solid #CCC;
+}
+
+.tec-sf-widget a {
+	display: block;
+	padding: 5px 10px;
+}
+
+.tec-sf-widget a span {
+	float: right;
+	width: 2em;
+	height: 1.5em;
+	text-align: center;
+	background: #333;
+	color: #FFF;
+	border-radius: 2px;
+}
